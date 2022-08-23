@@ -2,7 +2,7 @@
 
 👨‍🎓 I am a PhD candidate at University of Konstanz, Germany.
 
-👀 I’m interested in software development, statistics, network visualisation, and mixed reality.
+👀 I’m interested in software development, statistics, data visualisation, and mixed reality.
 
 🌱 I’m currently learning the MERN stack.
 
