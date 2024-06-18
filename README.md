@@ -4,7 +4,7 @@
 
 👀 I’m interested in software development, statistics, data visualisation, and mixed reality.
 
-🌱 I’m currently learning the MERN stack.
+🌱 I’m currently learning the MEAN stack.
 
 📫 You reach me via michael.aichem@uni-konstanz.de
 
